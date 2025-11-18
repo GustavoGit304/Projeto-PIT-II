@@ -9,7 +9,7 @@
 
 .  Links do projeto
 
-   -Vídeo explicativo - 
+   -Vídeo explicativo - https://drive.google.com/file/d/1lk8GmymwZdJumsVjzqjSvEKsXqqSRetG/view?usp=drive_link
 
   - E-mail: cupcake@123
   - Senha: cupcake123
@@ -71,4 +71,3 @@ Aluno
 - Nome: 
 - RGM: 
 - **Curso:** Engenharia de Software
-- **Instituição:** Universidade Positivo
