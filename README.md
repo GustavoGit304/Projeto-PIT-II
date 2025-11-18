@@ -66,8 +66,4 @@ De acordo com o pedido desse semestre foram feitas melhorias de algumas funciona
 Este projeto foi desenvolvido utilizando a stack de código **Tradicional** (Java/React), conforme classificado no `PIT_atividade.docx`. O código-fonte base do frontend (React/TypeScript) foi gerado inicialmente com o auxílio do Google AI Studio e, em seguida, foi inteiramente refatorado, adaptado e integrado manualmente com a API backend (Java/Spring Boot) para atender aos requisitos da `Especificacao_Agil_Cupcake_App_v2.docx`.
 
 
-Aluno
-
-- Nome: 
-- RGM: 
 - **Curso:** Engenharia de Software
